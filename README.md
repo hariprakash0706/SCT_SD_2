@@ -22,9 +22,5 @@ A simple and interactive web application where users try to guess a randomly gen
 
 ---
 
-## 📷 Demo
-
-<img src="demo.png" alt="Number Guessing Game Screenshot" width="500"/>
-
 
 
